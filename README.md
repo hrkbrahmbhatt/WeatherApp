@@ -52,12 +52,12 @@ The folder structure of this app is explained below:
 ## Building the project
 
 ## Tasks performed on this project
-•	Create a NodeJS API to fetch weather details for a given City using Weather API
-•	API will accept city name and read from DB table 
-•	NodeJS will fetch encrypted Key Secrets from configuration file for authenticating Google Weather API.
-•	NodeJS API will call weather API to get latest weather information and dump this info in DB Table 
-•	Return weather details in 20 seconds of last call for the same City, API will respond with DB Table dump, post 20 seconds it will go to Google API to     get latest weather
-•	Log the API execution in Log files with Date stamp.
+- Create a NodeJS API to fetch weather details for a given City using Weather API
+- API will accept city name and read from DB table 
+- NodeJS will fetch encrypted Key Secrets from configuration file for authenticating Google Weather API.
+- NodeJS API will call weather API to get latest weather information and dump this info in DB Table 
+- Return weather details in 20 seconds of last call for the same City, API will respond with DB Table dump, post 20 seconds it will go to Google API to     get latest weather
+- Log the API execution in Log files with Date stamp.
 
 
 # Common Issues

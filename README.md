@@ -73,8 +73,8 @@ The current solution has an example for using a private npm repository. if you w
 Here's what it looks like in action. ( Wait for GIF )
 
 
-![Alt Text](https://github.com/hrkbrahmbhatt/WeatherApp/blob/master/gif1.gif)
+![Alt Text](https://github.com/hrkbrahmbhatt/WeatherApp/blob/master/ggif1.gif)
 
-![Alt Text](https://github.com/hrkbrahmbhatt/WeatherApp/blob/master/gif2.gif)
+![Alt Text](https://github.com/hrkbrahmbhatt/WeatherApp/blob/master/ggif2.gif)
 
 

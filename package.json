@@ -1,0 +1,30 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Module 2 Assignment fetch weather by city from weather API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrkbrahmbhatt/WeatherApp.git"
+  },
+  "keywords": [
+    "NODEJS",
+    "WEATHERAPI"
+  ],
+  "author": "Hardik Brahmbhatt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrkbrahmbhatt/WeatherApp/issues"
+  },
+  "homepage": "https://github.com/hrkbrahmbhatt/WeatherApp#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "date-fns": "^2.29.2",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "mongodb": "^4.9.1"
+  }
+}

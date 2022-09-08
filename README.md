@@ -69,3 +69,12 @@ The folder structure of this app is explained below:
 The current solution has an example for using a private npm repository. if you want to use the public npm repository, remove the .npmrc file.
 
 
+
+Here's what it looks like in action. ( Wait for GIF )
+
+
+![Alt Text](https://github.com/hrkbrahmbhatt/WeatherApp/blob/master/gif1.gif)
+
+![Alt Text](https://github.com/hrkbrahmbhatt/WeatherApp/blob/master/gif2.gif)
+
+

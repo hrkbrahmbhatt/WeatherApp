@@ -50,6 +50,9 @@ The folder structure of this app is explained below:
 | package.json             | Contains npm dependencies as well as [build scripts](#what-if-a-library-isnt-on-definitelytyped)|    
 
 ## Building the project
+- Setup Google Developer Account for Google Map API free $300 credit need to add billing info in your google dev account in order to access Google Geocode API in Project, refer this https://developers.google.com/maps/documentation/geocoding/get-api-key
+- Setup free Open Weather API Account for API Key in order to access weather details over 200 thousands cities refer this https://openweathermap.org/api
+- Setup MongoDB account and create free cluster and create weather_info database and weather collection in cluster in order to access database in project refer this how to create cluster in Mongo https://www.mongodb.com/basics/clusters/mongodb-cluster-setup
 
 ## Tasks performed on this project
 - Create a NodeJS API to fetch weather details for a given City using Weather API

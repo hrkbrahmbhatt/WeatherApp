@@ -1,5 +1,5 @@
 # WeatherApp
-Fetch data by City using Openweather Map API 
+Fetch Weather by City using Openweather Map API 
 
 
 # Environment vars

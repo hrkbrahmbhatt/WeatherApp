@@ -41,7 +41,6 @@ async function updateRecordByCityName(recordID, weatherRecord) {
       .db("weather_info")
       .collection("weather")
       .updateOne({ _id: recordID }, { $set: weatherRecord }); //updating record
-
     console.log(`${result.matchedCount} data matched the query criteria.`);
     console.log(`${result.matchedCount} Weather's updated.`);
   } catch (error) {

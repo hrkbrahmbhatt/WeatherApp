@@ -63,6 +63,7 @@ app.get("/weather/:cityName", async (req, res) => {
       }
 
       res.send(weather);
+      console.log("Updated Weather:", weather);
     } catch (error) {
       res.send("Please try another city"); // its only supporting 200 thousands cities
     }

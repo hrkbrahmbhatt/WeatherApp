@@ -60,6 +60,7 @@ The folder structure of this app is explained below:
 - NodeJS will fetch encrypted Key Secrets from configuration file for authenticating Google Weather API.
 - NodeJS API will call weather API to get latest weather information and dump this info in DB Table 
 - Return weather details in 20 seconds of last call for the same City, API will respond with DB Table dump, post 20 seconds it will go to Google API to     get latest weather
+- 	Write Unit Test cases on API
 - Log the API execution in Log files with Date stamp.
 
 
